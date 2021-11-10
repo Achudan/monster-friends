@@ -1,5 +1,5 @@
 # Monster Friends
-
+Search for your favourite Monsters and explore them.
 You can run:
 
 ### `npm start`
