@@ -41,7 +41,7 @@ class App extends Component{
     const filteredMonster = monster.filter( monster => monster.name.toLowerCase().includes(searchField.toLocaleLowerCase()));
     return(
       <div className='App'>
-        <h1>Monsters Friends</h1>
+        <h1>Monster Friends</h1>
         <SearchBox placeholder='search monster' handleChange={this.handleChange} />
         <CardList monsters={filteredMonster}/>
         {/* {this.state.monster.map((monster)=>{return <p key={monster.id}>{monster.name}</p>})} */}
