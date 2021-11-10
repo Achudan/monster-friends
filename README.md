@@ -1,5 +1,8 @@
 # Monster Friends
 Search for your favourite Monsters and explore them.
+
+Hosted at https://achudan.github.io/monster-friends/
+
 You can run:
 
 ### `npm start`
